@@ -1,0 +1,12 @@
+/node_modules
+/lib
+/builds
+/src/serviceLocalStorageClient/db
+
+/**Versions.json
+/**Versions.jsonl
+
+# IDE files
+/.idea
+.DS_Store
+.env.local
